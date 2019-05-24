@@ -1,0 +1,16 @@
+#JSGF V1.0;
+/**
+ * JSGF Grammar for MyNote example
+ */
+grammar mynote;
+public <Wordsgroup1> = (  bat | dog | cat |nesreen );
+public <Wordsgroup2> = ( close )(recording) ;
+public <Wordsgroup3> = ( coffee | tea | milk |water );
+public <Wordsgroup4> = ( welcome | shadwa | hello | hey );
+public <Wordsgroup5> = ( close | exit | cancel );
+public <Wordsgroup6> = ( sharif | student | salah | mohammed );
+public <Wordsgroup7> = ( in | software | engineer  );
+public <Wordsgroup8> = ( engineer | Doctor );
+public <Wordsgroup9> = ( a | an | is );
+public <Wordsgroup9> = ( car | cycle );
+public <Wordsgroup9> = ( limkokwing );
